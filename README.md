@@ -62,7 +62,7 @@ Le jeu est jouable au clavier ou à la manette (détectée automatiquement au d�
 Ce dépôt est un projet vivant. Voici les prochaines étapes de développement prévues :
 * [ ] Faire fonctionner les mannettes connues (playstation/Xbox...) 
 * [ ] Ajouts de pouvoirs activables via des bonus (qui tombes du ciel / temps sans se prendre de bombes ...)
-
+* [ ] Menu pour personnaliser les stats du jeu.
 * [ ] Création d'un exécutable portable (AppImage) pour Linux.
 * [ ] Compilation croisée pour créer une version `.exe` pour Windows.
 * [ ] Ajout d'effets sonores et de musique de fond (avec SDL_mixer).

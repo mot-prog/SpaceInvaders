@@ -1,7 +1,7 @@
 #pragma once
 #include <stdio.h>
 #include <SDL2/SDL.h>
-#include "inc/libgraph.h"
+#include "Graphique-2.0/libgraph.h"
 #include "inc/struct.h"
 #include "inc/entite.h"
 #include "inc/fonctions.h"

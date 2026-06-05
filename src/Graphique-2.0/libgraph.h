@@ -21,7 +21,7 @@ typedef enum
 
 #define TAILLE_POLICE_DEFAUT 20
 
-static const char nomPoliceDefaut[] = "../Lutins/DejaVuSans.ttf";
+static const char nomPoliceDefaut[] = "Lutins/DejaVuSans.ttf";
 
 /**
  * @brief cree une fenetre 2D

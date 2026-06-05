@@ -4,7 +4,7 @@
 int largeur, hauteur;
 SDL_Joystick *manette = NULL;
 
-int main()
+int main(int argc, char *argv[])
 {
     // afficher_monstre();
     listes_chainees listes = {

@@ -4,7 +4,7 @@
 
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_ttf.h>
-#include "../inc/libgraph.h"
+#include "libgraph.h"
 
 /** Types **/
 
