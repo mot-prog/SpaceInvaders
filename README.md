@@ -63,8 +63,8 @@ Ce dépôt est un projet vivant. Voici les prochaines étapes de développement 
 * [ ] Faire fonctionner les mannettes connues (playstation/Xbox...) 
 * [ ] Ajouts de pouvoirs activables via des bonus (qui tombes du ciel / temps sans se prendre de bombes ...)
 * [ ] Menu pour personnaliser les stats du jeu.
-* [ ] Création d'un exécutable portable (AppImage) pour Linux.
-* [ ] Compilation croisée pour créer une version `.exe` pour Windows.
+* [x] Création d'un exécutable portable (AppImage) pour Linux.
+* [x] Compilation croisée pour créer une version `.exe` pour Windows.
 * [ ] Ajout d'effets sonores et de musique de fond (avec SDL_mixer).
 * [ ] Ajout d'un système de score et d'un "High Score" sauvegardé dans un fichier.
 * [ ] Ajout de différents types d'aliens et d'un boss final.
